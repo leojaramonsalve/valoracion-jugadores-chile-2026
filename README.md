@@ -4,6 +4,8 @@ Ranking de jugadores del Campeonato Nacional chileno (primera rueda 2026) a part
 
 > **Pregunta que responde el proyecto:** ¿Cómo poder sacar más provecho a los rankings de páginas como Sofascore? en vez de "¿quién tiene la mejor nota?", observaremos cómo se comporta un jugador en el tiempo y en función de su equipo.
 
+> 🔗 **Dashboard interactivo en vivo:** **[valoracion-jugadores-chile.streamlit.app](https://valoracion-jugadores-chile.streamlit.app/)**
+
 ##  Motivación
 
 El *rating* de Sofascore es útil pero sesgado: no es lo mismo destacar en un equipo que domina los partidos que en uno que lucha en el fondo de la tabla. Además algunas de sus métricas no siempre dan cuenta de lo que realmente se percibe en un encuentro(lo que se cuenta como asistencia no siempre es un pase en profundidad o una ocasión clara de gol). Para corregirlo, se construye una métrica sencilla de calcular y mucho más interesante de observar en el mediano plazo:
@@ -64,6 +66,8 @@ El jugador con el **rating crudo más alto** de la primera rueda (Fernando Zampe
 5. **Visualización**: dashboard interactivo en Streamlit + Plotly.
 
 ##  Dashboard
+
+**🔗 Pruébalo en vivo: [valoracion-jugadores-chile.streamlit.app](https://valoracion-jugadores-chile.streamlit.app/)** (desplegado en Streamlit Community Cloud).
 
 El dashboard permite filtrar por equipo, ordenar por distintas métricas y explorar:
 

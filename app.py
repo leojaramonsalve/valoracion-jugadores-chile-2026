@@ -89,15 +89,41 @@ df_vista = df_vista.sort_values(col_metrica, ascending=False)
 # --------------------------------------------------------------------------
 st.title("⚽ Valoración de jugadores — Primera División de Chile 2026")
 st.markdown(
-    "Ranking de jugadores según su **rating de Sofascore relativo al promedio "
-    "de su equipo** durante la primera rueda del Campeonato Nacional 2026."
+    "Ranking de jugadores del Campeonato Nacional chileno (primera rueda 2026) a partir de "
+    "los *ratings* de [Sofascore](https://www.sofascore.com/), usando una **métrica relativa** "
+    "que mide el rendimiento de cada jugador respecto al **promedio de su propio equipo**."
 )
+
+with st.expander("ℹ️ ¿Cómo leer este dashboard?"):
+    st.markdown(
+        """
+El *rating* de Sofascore es útil pero sesgado: **no es lo mismo destacar en un equipo que domina
+que en uno que pelea en el fondo de la tabla**. Para corregirlo usamos una métrica sencilla:
+
+```
+rating_relativo = rating_del_jugador / rating_promedio_de_su_equipo
+```
+
+- **Mayor a 1** → el jugador rinde **por encima** de la media de su equipo.
+- **Menor a 1** → rinde **por debajo**.
+
+Así, en vez de preguntar *"¿quién tiene la mejor nota?"*, respondemos algo más interesante:
+**¿quién rinde por encima del nivel de su propio equipo?**
+
+*Incluye solo jugadores con ≥ 675 minutos jugados (la mitad de los posibles en la primera rueda).*
+        """
+    )
 
 col1, col2, col3 = st.columns(3)
 col1.metric("Jugadores analizados", len(df_vista))
 mejor = df_vista.iloc[0]
 col2.metric("Mejor por la métrica elegida", mejor["player"], f'{mejor[col_metrica]:.3f}')
-col3.metric("Rating promedio de la vista", f'{df_vista["rating"].mean():.2f}')
+col3.metric(
+    "Rating Sofascore promedio",
+    f'{df_vista["rating"].mean():.2f}',
+    help="Promedio del rating de Sofascore de los jugadores que se están mostrando "
+         "(cambia según el filtro de equipo).",
+)
 
 st.markdown("---")
 

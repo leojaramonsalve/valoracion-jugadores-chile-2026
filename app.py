@@ -68,6 +68,13 @@ st.sidebar.caption(
     "(la mitad de los minutos posibles de la primera rueda)."
 )
 
+st.sidebar.markdown("---")
+st.sidebar.markdown(
+    "**Creado por Leonardo Jara M.**  \n"
+    "[💻 Código en GitHub]"
+    "(https://github.com/leojaramonsalve/valoracion-jugadores-chile-2026)"
+)
+
 # Aplicamos el filtro de equipo
 if equipo_sel == "Todos los equipos":
     df_vista = df.copy()
@@ -153,4 +160,15 @@ st.dataframe(
          "rating", "rating_promedio_equipo", "rating_relativo", "diferencia"]
     ].reset_index(drop=True),
     use_container_width=True,
+)
+
+
+# --------------------------------------------------------------------------
+# 8) PIE DE PÁGINA — autoría
+# --------------------------------------------------------------------------
+st.markdown("---")
+st.markdown(
+    "Desarrollado por **Leonardo Jara M.** · "
+    "[GitHub](https://github.com/leojaramonsalve/valoracion-jugadores-chile-2026) · "
+    "Datos de Sofascore vía LanusStats."
 )

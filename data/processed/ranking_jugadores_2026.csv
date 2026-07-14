@@ -1,0 +1,166 @@
+player,team,appearances,minutesPlayed,rating,rating_promedio_equipo,rating_relativo,diferencia
+Francisco González,O'Higgins,15,1150,7.44,6.854,1.086,0.586
+Kevin Méndez,Unión La Calera,14,1208,7.35,6.785,1.083,0.565
+Arturo Vidal,Colo-Colo,14,1123,7.51,6.984,1.075,0.526
+Fernando Zampedri,Universidad Católica,14,1147,7.56,7.034,1.075,0.526
+Jorge Henríquez,Deportes Concepción,12,773,7.2,6.711,1.073,0.489
+Juan Cornejo,Coquimbo Unido,11,958,7.45,6.959,1.071,0.491
+Jean Meneses,Deportes Limache,15,1323,7.41,6.948,1.067,0.462
+Matías Zaldivia,Universidad de Chile,10,900,7.44,6.992,1.064,0.448
+Gabriel Castellón,Universidad de Chile,15,1350,7.44,6.992,1.064,0.448
+Jeisson Vargas,Deportes La Serena,15,1287,7.19,6.804,1.057,0.386
+Nicolás Vargas,Huachipato,14,1221,7.19,6.805,1.057,0.385
+Matías Palavecino,Universidad Católica,14,923,7.42,7.034,1.055,0.386
+Alejandro Santander,Cobresal,9,810,7.16,6.805,1.052,0.355
+Bryan Carvallo,Cobresal,15,1127,7.15,6.805,1.051,0.345
+Víctor Felipe Méndez,Colo-Colo,15,1305,7.33,6.984,1.05,0.346
+Enzo Ferrario,Audax Italiano,12,1065,7.15,6.815,1.049,0.335
+Lorenzo Reyes,Ñublense,14,1260,7.18,6.848,1.048,0.332
+Daniel Castro,Deportes Limache,15,1314,7.27,6.948,1.046,0.322
+Alan Medina,Everton de Viña del Mar,15,1313,7.23,6.922,1.044,0.308
+Joaquín Moya,Everton de Viña del Mar,14,1202,7.21,6.922,1.042,0.288
+Santiago Silva Azambuja,Universidad de Concepción,8,720,7.0,6.752,1.037,0.248
+Juan Manuel Requena,Unión La Calera,12,1059,7.03,6.785,1.036,0.245
+Felipe Ogaz,O'Higgins,14,1215,7.09,6.854,1.034,0.236
+Cristhofer Mesías,Universidad de Concepción,13,897,6.98,6.752,1.034,0.228
+Gonzalo Escalante,Deportes La Serena,12,1078,7.03,6.804,1.033,0.226
+Sebastián Sáez,Unión La Calera,15,1322,7.01,6.785,1.033,0.225
+Lucas Alarcón,Deportes La Serena,10,837,6.99,6.804,1.027,0.186
+Claudio Sepúlveda,Huachipato,13,1017,6.99,6.805,1.027,0.185
+Federico Mateos,Audax Italiano,14,1009,6.97,6.815,1.023,0.155
+Nicolás Ramírez,Universidad de Chile,13,1032,7.15,6.992,1.023,0.158
+Tomás Alarcón,Colo-Colo,13,1081,7.14,6.984,1.022,0.156
+Matías Plaza,Ñublense,14,828,7.0,6.848,1.022,0.152
+Nicolás Araya,Deportes Concepción,8,720,6.85,6.711,1.021,0.139
+Omar Carabalí,O'Higgins,14,1260,6.99,6.854,1.02,0.136
+Julián Fernández,Palestino,13,797,6.98,6.855,1.018,0.125
+Lucas Soto,Everton de Viña del Mar,12,779,7.03,6.922,1.016,0.108
+Ignacio González,Everton de Viña del Mar,11,990,7.03,6.922,1.016,0.108
+Julián Brea,Cobresal,14,1176,6.91,6.805,1.015,0.105
+Sebastián Valencia,Ñublense,11,914,6.94,6.848,1.013,0.092
+Sebastián Gallegos,Palestino,14,1162,6.94,6.855,1.012,0.085
+Nicola Pérez,Ñublense,15,1350,6.93,6.848,1.012,0.082
+Alfonso Parot,Deportes Limache,11,958,7.03,6.948,1.012,0.082
+Agustín Urzi,Universidad de Concepción,14,880,6.83,6.752,1.012,0.078
+Daniel Piña,Audax Italiano,15,1326,6.89,6.815,1.011,0.075
+Ian Garguez,Palestino,12,957,6.93,6.855,1.011,0.075
+César Munder,Palestino,11,785,6.93,6.855,1.011,0.075
+Leonardo Valencia,Deportes Concepción,13,791,6.78,6.711,1.01,0.069
+Diego Sánchez,Coquimbo Unido,12,1080,7.03,6.959,1.01,0.071
+Martín Sarrafiore,O'Higgins,13,797,6.92,6.854,1.01,0.066
+Alejandro Camargo,Coquimbo Unido,12,933,7.02,6.959,1.009,0.061
+Rafael Delgado,Deportes La Serena,14,1039,6.86,6.804,1.008,0.056
+Agustin Nadruz,Cobresal,12,1008,6.86,6.805,1.008,0.055
+Jason León,Palestino,13,791,6.91,6.855,1.008,0.055
+Yerko González,Deportes Limache,13,1050,7.0,6.948,1.008,0.052
+Sebastián Galani,Coquimbo Unido,12,939,7.01,6.959,1.007,0.051
+Cecilio Waterman,Universidad de Concepción,11,964,6.8,6.752,1.007,0.048
+Franco Calderón,Universidad de Chile,11,909,7.04,6.992,1.007,0.048
+Diego Rubio,Deportes La Serena,13,960,6.84,6.804,1.005,0.036
+Rodrigo Caseres,Unión La Calera,11,990,6.82,6.785,1.005,0.035
+Steffan Pino,Cobresal,14,1177,6.84,6.805,1.005,0.035
+Lionel Altamirano,Huachipato,15,1095,6.84,6.805,1.005,0.035
+Michael Vadulli,Audax Italiano,11,692,6.85,6.815,1.005,0.035
+Diego Oyarzún,Everton de Viña del Mar,13,1169,6.95,6.922,1.004,0.028
+Felipe Faúndez,O'Higgins,12,1003,6.88,6.854,1.004,0.026
+Christian Bravo,Huachipato,8,720,6.83,6.805,1.004,0.025
+Santiago Silva,Huachipato,14,1163,6.83,6.805,1.004,0.025
+Nelson Da Silva,Palestino,14,981,6.88,6.855,1.004,0.025
+Francis Mac Allister,Deportes La Serena,13,1058,6.82,6.804,1.002,0.016
+Esteban Matus,Audax Italiano,13,1121,6.83,6.815,1.002,0.015
+Sebastián Pérez,Palestino,15,1350,6.87,6.855,1.002,0.015
+Jeison Fuentealba,Universidad de Concepción,15,1225,6.76,6.752,1.001,0.008
+Felipe Chamorro,Deportes La Serena,15,1108,6.81,6.804,1.001,0.006
+Jonathan Villagra,Colo-Colo,15,1341,6.99,6.984,1.001,0.006
+Joaquín Sosa,Colo-Colo,14,1185,6.99,6.984,1.001,0.006
+Cristián Cuevas,Universidad Católica,14,1083,7.04,7.034,1.001,0.006
+Francisco Salinas,Coquimbo Unido,12,1041,6.96,6.959,1.0,0.001
+Fausto Grillo,Deportes Concepción,11,843,6.71,6.711,1.0,-0.001
+Facundo Mater,Universidad de Concepción,15,1350,6.75,6.752,1.0,-0.002
+Miguel Brizuela,O'Higgins,11,981,6.85,6.854,0.999,-0.004
+Justo Giani,Universidad Católica,15,1307,7.03,7.034,0.999,-0.004
+Benjamín Berríos,Everton de Viña del Mar,11,986,6.91,6.922,0.998,-0.012
+Osvaldo González,Universidad de Concepción,14,1164,6.74,6.752,0.998,-0.012
+Rafael Caroca,Huachipato,15,1350,6.79,6.805,0.998,-0.015
+Hugo Magallanes,Everton de Viña del Mar,9,810,6.9,6.922,0.997,-0.022
+César Yanis,Cobresal,11,744,6.78,6.805,0.996,-0.025
+Tomás Ahumada,Audax Italiano,15,1350,6.79,6.815,0.996,-0.025
+Felipe Campos,Ñublense,11,834,6.82,6.848,0.996,-0.028
+Benjamín Gazzolo,Coquimbo Unido,12,1078,6.93,6.959,0.996,-0.029
+Juan Ignacio Díaz,Universidad Católica,10,894,7.0,7.034,0.995,-0.034
+Nicolás Meza,Palestino,13,733,6.82,6.855,0.995,-0.035
+Nicolás Garrido,O'Higgins,9,731,6.81,6.854,0.994,-0.044
+Marcelo Morales,Universidad de Chile,10,794,6.94,6.992,0.993,-0.052
+Misael Dávila,Deportes Concepción,12,1024,6.66,6.711,0.992,-0.051
+Yerco Oyanedel,Universidad de Concepción,15,1182,6.7,6.752,0.992,-0.052
+Nicolás Palma,Unión La Calera,11,967,6.73,6.785,0.992,-0.055
+Joaquín Larrivey,Deportes Concepción,13,1060,6.65,6.711,0.991,-0.061
+Norman Rodríguez,Deportes Concepción,12,1047,6.65,6.711,0.991,-0.061
+Bruno Gutiérrez,Deportes La Serena,15,1209,6.74,6.804,0.991,-0.064
+Matías Bórquez,Deportes Limache,9,810,6.88,6.948,0.99,-0.068
+Ramón Martínez,Deportes Limache,11,972,6.88,6.948,0.99,-0.068
+Gabriel Graciani,Ñublense,14,969,6.78,6.848,0.99,-0.068
+Jhojan Valencia,Universidad Católica,13,742,6.96,7.034,0.989,-0.074
+José Tiznado,Cobresal,12,1035,6.73,6.805,0.989,-0.075
+Nicolás Avellaneda,Unión La Calera,15,1350,6.71,6.785,0.989,-0.075
+Franco Troyansky,Audax Italiano,14,730,6.74,6.815,0.989,-0.075
+Marco Collao,Audax Italiano,13,951,6.74,6.815,0.989,-0.075
+Maicol León,Huachipato,15,700,6.73,6.805,0.989,-0.075
+Manuel Rivera,Ñublense,15,1192,6.77,6.848,0.989,-0.078
+Ariel Cáceres,Deportes Concepción,10,801,6.63,6.711,0.988,-0.081
+Francisco Montes,Palestino,14,857,6.76,6.855,0.986,-0.095
+Joaquín Soto,Unión La Calera,15,811,6.69,6.785,0.986,-0.095
+Leonel González,Universidad de Concepción,11,847,6.65,6.752,0.985,-0.102
+Álvaro Madrid,Colo-Colo,14,841,6.87,6.984,0.984,-0.114
+Aaron Astudillo,Cobresal,13,954,6.69,6.805,0.983,-0.115
+Dilan Zúñiga,Palestino,11,910,6.74,6.855,0.983,-0.115
+Aldrix Jara,Deportes Concepción,15,891,6.59,6.711,0.982,-0.121
+Fabián Hormazábal,Universidad de Chile,15,1320,6.86,6.992,0.981,-0.132
+Vicente Bernedo,Universidad Católica,14,1260,6.9,7.034,0.981,-0.134
+Juan Leiva,O'Higgins,13,910,6.72,6.854,0.981,-0.134
+Federico Lanzillotta,Deportes La Serena,14,1204,6.67,6.804,0.98,-0.134
+Jovany Campusano,Ñublense,14,1246,6.71,6.848,0.98,-0.138
+David Retamal,Universidad de Concepción,10,800,6.61,6.752,0.979,-0.142
+Guillermo Pacheco,Cobresal,15,1052,6.66,6.805,0.979,-0.145
+Jeyson Rojas,Colo-Colo,14,1192,6.83,6.984,0.978,-0.154
+Ignacio Jeraldino,Ñublense,15,995,6.69,6.848,0.977,-0.158
+Branco Ampuero,Universidad Católica,15,1336,6.87,7.034,0.977,-0.164
+Leandro Hernández,Colo-Colo,14,694,6.82,6.984,0.977,-0.164
+Lucas Velásquez,Huachipato,13,909,6.64,6.805,0.976,-0.165
+Israel Poblete,Universidad de Chile,14,1069,6.82,6.992,0.975,-0.172
+Diego Ulloa,Colo-Colo,14,1163,6.81,6.984,0.975,-0.174
+Manuel Fernández,Coquimbo Unido,12,1011,6.78,6.959,0.974,-0.179
+Maximiliano Rodríguez,Huachipato,14,898,6.63,6.805,0.974,-0.175
+Osvaldo Bosso,Ñublense,15,1337,6.66,6.848,0.973,-0.188
+Fernando de Paul,Colo-Colo,9,790,6.79,6.984,0.972,-0.194
+Marcelo Ortíz,Audax Italiano,12,1023,6.62,6.815,0.971,-0.195
+Christopher Díaz,Unión La Calera,14,1178,6.59,6.785,0.971,-0.195
+Maximiliano Guerrero,Universidad de Chile,15,1044,6.79,6.992,0.971,-0.202
+Vicente Fernández,Everton de Viña del Mar,11,737,6.72,6.922,0.971,-0.202
+Luis Pavez Muñoz,O'Higgins,11,852,6.65,6.854,0.97,-0.204
+Vicente Espinoza,Palestino,13,1170,6.65,6.855,0.97,-0.205
+Daniel Gutiérrez,Unión La Calera,13,1170,6.58,6.785,0.97,-0.205
+Valentín Vidal,Everton de Viña del Mar,11,825,6.71,6.922,0.969,-0.212
+Nicolás Johansen,Coquimbo Unido,14,808,6.74,6.959,0.969,-0.219
+Eduardo Vargas,Universidad de Chile,13,956,6.77,6.992,0.968,-0.222
+Jimmy Martínez,Universidad Católica,14,873,6.81,7.034,0.968,-0.224
+Cris Martínez,Huachipato,12,813,6.58,6.805,0.967,-0.225
+Bayron Oyarzo,Unión La Calera,14,881,6.56,6.785,0.967,-0.225
+Cristián Gutiérrez,Unión La Calera,13,734,6.56,6.785,0.967,-0.225
+Gonzalo Sosa,Deportes Limache,15,1047,6.71,6.948,0.966,-0.238
+Christian Moreno,Cobresal,11,754,6.57,6.805,0.966,-0.235
+Maximiliano Romero,Colo-Colo,14,940,6.74,6.984,0.965,-0.244
+Arnaldo Castillo,O'Higgins,15,938,6.61,6.854,0.964,-0.244
+Guido Vadalá,Coquimbo Unido,12,824,6.71,6.959,0.964,-0.249
+Giovani Chiaverano,Audax Italiano,15,949,6.57,6.815,0.964,-0.245
+Augusto Aguirre,Deportes Limache,15,1350,6.69,6.948,0.963,-0.258
+Clemente Montes,Universidad Católica,11,700,6.75,7.034,0.96,-0.284
+Marcelo Flores,Deportes Limache,15,1307,6.66,6.948,0.959,-0.288
+Yahir Salazar,Deportes La Serena,12,1048,6.5,6.804,0.955,-0.304
+Jorge Espejo,Universidad de Concepción,12,910,6.45,6.752,0.955,-0.302
+Franco Bechtholdt,Cobresal,14,1215,6.5,6.805,0.955,-0.305
+Javier Altamirano,Universidad de Chile,15,846,6.67,6.992,0.954,-0.322
+Diego Carrasco,Deportes Concepción,8,690,6.39,6.711,0.952,-0.321
+Emiliano Ramos,Everton de Viña del Mar,15,816,6.53,6.922,0.943,-0.392
+Joaquín Gutiérrez,Deportes La Serena,14,868,6.39,6.804,0.939,-0.414
+Alan Robledo,O'Higgins,8,709,6.43,6.854,0.938,-0.424

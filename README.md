@@ -86,7 +86,8 @@ streamlit run app.py
 ├── data/
 │   ├── raw/                          # Datos crudos descargados de Sofascore
 │   └── processed/                    # Dataset final con la métrica calculada
-├── requirements.txt                  # Dependencias del proyecto
+├── requirements.txt                  # Dependencias del dashboard
+├── requirements-dev.txt              # Entorno completo (notebook + scraping)
 ├── .gitignore
 └── README.md
 ```
@@ -103,8 +104,9 @@ python -m venv venv
 venv\Scripts\activate        # Windows
 # source venv/bin/activate   # macOS / Linux
 
-# 3. Instalar dependencias
+# 3. Instalar dependencias del dashboard
 pip install -r requirements.txt
+#    (Para reproducir el notebook y el scraping: pip install -r requirements-dev.txt)
 
 # 4. (Opcional) Volver a descargar los datos ejecutando el notebook,
 #    o usar directamente el CSV ya incluido en data/processed/
